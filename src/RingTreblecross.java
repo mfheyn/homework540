@@ -1,5 +1,4 @@
 import java.util.Arrays;
-import java.util.LinkedList;
 import java.util.List;
 import java.util.Scanner;
 
@@ -33,6 +32,9 @@ public class RingTreblecross {
     	/* TO DO
          * You are given a state, and you need to return true if the state is the end of the game
          */
+      
+      //TEST GIT CHECKOUT
+      
         return false;
     }
 
@@ -45,6 +47,8 @@ public class RingTreblecross {
          * You need to pack the score and best successor to a Best object and return it
          */
 
+         
+      
          return null;
     }
 
